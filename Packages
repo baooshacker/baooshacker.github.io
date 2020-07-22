@@ -20,10 +20,10 @@ Name: WibuTheme
 Version: 1.1
 Section: Tweak
 Architecture: iphoneos-arm
-Installed-Size: 18.1
+Installed-Size: 18111
 Author: Huy Hue
 Maintainer: NTQB Repo
-Description: Theme wibu bản mới đã Fix lỗi folder :))
+Description: Theme wibu cho các AE :)
 Filename: ./debs/com.baooshacker.WibuTheme_1.1_iphoneos-arm.deb
 Size: 17685KB
 MD5sum: bd03f28a31a451a0e98211620b7a707c
