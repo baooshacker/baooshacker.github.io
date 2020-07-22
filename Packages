@@ -15,3 +15,15 @@ Filename: ./debs/com.ntqbrepo.little11_1.3.0_iphoneos-arm.deb
 Size: 34KB
 MD5sum: 40ff49a97986fcb368c29a6964e6e744
 
+Package: com.baooshacker.WibuTheme
+Name: WibuTheme
+Version: 1.0
+Section: Tweak
+Architecture: iphoneos-arm
+Installed-Size: 448
+Author: Huy Hue
+Maintainer: NTQB Repo
+Description: Theme wibu cho các AE :)
+Filename: ./debs/com.baooshacker.WibuTheme_0.1_iphoneos-arm.deb
+Size: 17658KB
+MD5sum: 94eee18314c127d7376a3dda8479af55
