@@ -41,3 +41,17 @@ Maintainer: NTQP Repo
 Filename: ./deb/com.baooshacker.FakeEsim_1.0.0_iphoneos-arm.deb
 Size: 10240
 MD5sum: E2F151853FCA6A613B4B3F6781815B39
+
+Package: com.baooshacker.hackpubg
+Name: Hack PUBG VNG+Global
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Deb 8 chức năng , 2 nút , menu login , anti report. Nhớ dán anti trước khi chơi
+Maintainer: NTQB Repo
+Author: t.me/22Tarot
+Section: Tweaks
+Version: 0.1
+Installed-Size: 10000kb
+Filename: ./deb/com.baooshacker.hackpubg_0.1_iphoneos-arm.deb
+Size: 1163750
+MD5sum: 83EBC96373C7D3448FB3CD857E4917D3
