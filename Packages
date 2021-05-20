@@ -6,7 +6,7 @@ Section: Tweaks
 Maintainer: NTQB Repo
 Installed-Size: 100
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/com.baooshacker.FakeEsim_1.0.0.deb
+Filename: ./debs/com.baooshacker.FakeEsim_1.0.0_iphoneos-arm.deb
 Size: 10
 MD5sum: E2F151853FCA6A613B4B3F6781815B39
 Description: 
