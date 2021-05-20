@@ -1,0 +1,21 @@
+<package>
+	<id>com.baooshacker.FakeEsim_1.0.0</id>
+	<name>Nguyễn Triệu Quốc Bảo</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Fake eSim cho thiết bị của bạn</description>
+		<description>Hỗ trợ ios 11 trở lên</description>
+	</descriptionlist><screenshots>
+	<changelog>
+		<change>Phiên bản mới nhất hiện tại</change>
+	</changelog>
+	<links></links>
+</package>
